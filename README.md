@@ -34,6 +34,7 @@
  <hr>
        
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjb6478)](https://solved.ac/bjb6478/)
 
 
 
